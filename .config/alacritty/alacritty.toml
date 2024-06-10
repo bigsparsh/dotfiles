@@ -1,0 +1,12 @@
+[window]
+opacity = 0.95
+[colors]
+transparent_background_colors = true
+[font.normal]
+family = "RecMono Duotone Nerd Font"
+style = "Regular"
+[font]
+size = 11
+[window.padding]
+x = 20
+y = 20

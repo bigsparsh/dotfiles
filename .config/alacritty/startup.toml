@@ -1,0 +1,10 @@
+[window]
+opacity = 0.95
+[font.normal]
+family = "Hurmit Nerd Font"
+style = "Regular"
+[font]
+size = 11
+[window.padding]
+x = 20
+y = 20
